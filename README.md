@@ -20,11 +20,11 @@ https://arxiv.org/pdf/1508.04025.pdf
 
 ### 📊 Visualizing attention weights for 3 scoring functions Dot, General and Concat
 
-<img width="300" caption="Attention weights plot for dot scoring function" src="https://github.com/Rohan-Thoma/Coding-attention-from-scratch/assets/98249384/fcf31418-b4db-4759-acd7-0c6b8c3bbeab">
+<img width="230" caption="Attention weights plot for dot scoring function" src="https://github.com/Rohan-Thoma/Coding-attention-from-scratch/assets/98249384/fcf31418-b4db-4759-acd7-0c6b8c3bbeab">
 
-<img width="300" caption="Attention weights plot for general scoring function" src="https://github.com/Rohan-Thoma/Coding-attention-from-scratch/assets/98249384/ffa52989-19cb-4f09-abb8-287d2db9bdc2">
+<img width="230" caption="Attention weights plot for general scoring function" src="https://github.com/Rohan-Thoma/Coding-attention-from-scratch/assets/98249384/ffa52989-19cb-4f09-abb8-287d2db9bdc2">
 
-<img width="300" caption="Attention weights plot for concat scoring function" src="https://github.com/Rohan-Thoma/Coding-attention-from-scratch/assets/98249384/12e61ef2-d4bd-4a40-a59f-41a456220d70">
+<img width="230" caption="Attention weights plot for concat scoring function" src="https://github.com/Rohan-Thoma/Coding-attention-from-scratch/assets/98249384/12e61ef2-d4bd-4a40-a59f-41a456220d70">
 
 ### 🏆 BLEU score comparison between the models 
 
